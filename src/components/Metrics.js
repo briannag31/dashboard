@@ -1,7 +1,7 @@
 import React from "react";
 
-const Menu = (props) => {
-    return
+const Metrics = () => {
+    return <h1 className="metrics">Metrics</h1>
 }
 
-export default Menu;
+export default Metrics;

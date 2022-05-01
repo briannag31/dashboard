@@ -1,7 +1,7 @@
 import React from "react";
 
-const Reviews = (props) => {
-    return
+const Reviews = () => {
+    return <h1 className="Reviews top">Reviews</h1>
 }
 
 export default Reviews;
